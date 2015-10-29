@@ -1,0 +1,12 @@
+C:\Users\denis\OneDrive\documenten\kdg\Jaar 2\Software Engineering\Yahtzee\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+C:\Users\denis\OneDrive\documenten\kdg\Jaar 2\Software Engineering\Yahtzee\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe
+C:\Users\denis\OneDrive\documenten\kdg\Jaar 2\Software Engineering\Yahtzee\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.pdb
+C:\Users\denis\OneDrive\documenten\kdg\Jaar 2\Software Engineering\Yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csprojResolveAssemblyReference.cache
+C:\Users\denis\OneDrive\documenten\kdg\Jaar 2\Software Engineering\Yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Properties.Resources.resources
+C:\Users\denis\OneDrive\documenten\kdg\Jaar 2\Software Engineering\Yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.TeerlingView.resources
+C:\Users\denis\OneDrive\documenten\kdg\Jaar 2\Software Engineering\Yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache
+C:\Users\denis\OneDrive\documenten\kdg\Jaar 2\Software Engineering\Yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+C:\Users\denis\OneDrive\documenten\kdg\Jaar 2\Software Engineering\Yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
+C:\Users\denis\OneDrive\documenten\kdg\Jaar 2\Software Engineering\Yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Yahtzee.resources
+C:\Users\denis\OneDrive\documenten\kdg\Jaar 2\Software Engineering\Yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Highscore.resources
+C:\Users\denis\OneDrive\documenten\kdg\Jaar 2\Software Engineering\Yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.YahtzeeView.resources
