@@ -59,7 +59,7 @@
       this.Controls.Add(this.button2);
       this.Controls.Add(this.button1);
       this.Name = "YahtzeeView";
-      this.Size = new System.Drawing.Size(1173, 199);
+      this.Size = new System.Drawing.Size(1002, 199);
       this.Load += new System.EventHandler(this.YahtzeeView_Load);
       this.ResumeLayout(false);
 
